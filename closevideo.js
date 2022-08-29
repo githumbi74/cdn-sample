@@ -1,7 +1,7 @@
-$("#show-popup-button").on("click", function () {
-  var popup = document.getElementById("myPopup");
-  popup.classList.toggle("show");
-});
+// $("#show-popup-button").on("click", function () {
+//   var popup = document.getElementById("myPopup");
+//   popup.classList.toggle("show");
+// });
 
 // this stops youtube playing when closing modal
 
